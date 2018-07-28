@@ -1,0 +1,28 @@
+# nuxtjs-ava
+
+> Nuxt.js + Ava unit test + e2e test
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ npm install # Or yarn install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm start
+
+# generate static project
+$ npm run generate
+
+# unit test
+$ npm run test:unit
+$ npm run test:e2e
+
+```
+
+For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
